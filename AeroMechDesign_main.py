@@ -1,0 +1,21 @@
+import numpy as np
+
+## GENERAL PARAMS
+NUM_OF_ROTORS =  #[/]
+MODEL_WEIGHT  =  #[g]
+FRAME_SIZE    =  #[mm]
+
+#BATTERY
+BATTERY_TYPE  = #[mah]
+BATTERY_CELLS = #[number of cells]
+BATTERY_MAX_DISCHARGE = #[%]
+
+#CONTROLLER
+CONTROLLER_TYPE = 
+
+#MOTOR
+MOTOR_MANUFACTURER = 
+MOTOR_TYEP = #kv
+
+
+
